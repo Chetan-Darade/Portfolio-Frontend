@@ -14,7 +14,7 @@ export default function Hero() {
                         Hi, I’m <span className="text-purple-500">Chetan Darade</span>
                     </h2>
 
-                    <p className="text-xs sm:text-sm text-gray-300 mb-8 leading-relaxed">
+                    <p className="text-xs sm:text-sm text-gray-300 mb-4 leading-relaxed">
                         Full-stack Web Developer and Business/Data Analyst who turns ideas into seamless interfaces and data into clear, actionable visuals using Power BI.<br />
                         I build modern, responsive & user-centered experiences.
 
@@ -28,7 +28,7 @@ export default function Hero() {
                             View Projects
                         </a>
                         <a
-                            href="src/assets/CV.pdf" download
+                            href="/CV.pdf" download
                             className="px-3 py-2 rounded-xl border border-purple-600 text-purple-400 hover:bg-purple-700 hover:text-white"
                         >
                             Download CV

@@ -8,7 +8,7 @@ export default function Projects() {
 
     const allProjects = [
         {
-            img: "src/assets/Portfolio.png",
+            img: "/Portfolio.png",
             title: "Chetan Portfolio",
             description: "A portfolio website that highlights my technical skills, real-world projects, and passion for building scalable digital solutions.",
             languages: ["React", "NodeJS", "ExpressJS", "Three,js"],
@@ -17,7 +17,7 @@ export default function Projects() {
             category: "Fullstack",
         },
         {
-            img: "src/assets/DHH.png",
+            img: "/DHH.png",
             title: "Digital Health Hub",
             description: "A healthcare platform that integrates appointment management, disease prediction models, and nurse dashboards to provide faster, data-driven patient care.",
             languages: ["HTML/CSS", "NodeJS", "ExpressJS", "MySQL"],
@@ -26,7 +26,7 @@ export default function Projects() {
             category: "Fullstack",
         },
         {
-            img: "src/assets/IDCP.jpg",
+            img: "/IDCP.jpg",
             title: "Inter-Departmental Cooperation Platform",
             description: "A smart governance system for city departments that enables project coordination, real-time communication, and tender clash detection based on priority, locality, and completion timelines.",
             languages: ["React", "NodeJS", "ExpressJS", "MySQL"],
@@ -35,7 +35,7 @@ export default function Projects() {
             githubLink: "https://github.com/Chetan-Darade/City-Synergy-Inter-Departmental-Co-operation-platform.git",
         },
         {
-            img: "src/assets/Freelancify.png",
+            img: "/Freelancify.png",
             title: "Freelancify",
             description: "A freelancing marketplace enabling clients, agencies, and independent professionals to collaborate seamlessly, with real-time communication and scalable project lifecycle management.",
             languages: ["React", "NodeJS", "ExpressJS", "MongoDB"],
@@ -43,7 +43,7 @@ export default function Projects() {
             liveLink: "https://freelancify-deploy-repo-w33j.vercel.app/",
         },
         {
-            img: "src/assets/SD.png",
+            img: "  /SD.png",
             title: "Sales Report Dashboard",
             description: "Interactive Power BI sales dashboard providing actionable insights on revenue and profit across regions, product categories, and supervisors.",
             languages: ["Data Visualization", "Excel", "PowerBI"],

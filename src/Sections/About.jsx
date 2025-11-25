@@ -31,7 +31,7 @@ export default function About() {
               <button className=" text-white ">View My Work</button>
 </a>
 
-              <a className="border-2 w-full border-purple-700 rounded-2xl py-1.5 text-purple-700 hover:bg-purple-600 hover:text-white focus:outline-2 focus:outline-offset-2 focus:outline-purple-800 active:bg-violet-700 sm:w-2/3" href="src/assets/CV.pdf" download >
+              <a className="border-2 w-full border-purple-700 rounded-2xl py-1.5 text-purple-700 hover:bg-purple-600 hover:text-white focus:outline-2 focus:outline-offset-2 focus:outline-purple-800 active:bg-violet-700 sm:w-2/3" href="/CV.pdf" download >
                 <button className="">Download CV</button></a>
 
 
