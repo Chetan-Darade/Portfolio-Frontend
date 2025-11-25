@@ -21,7 +21,7 @@ export default function Contact() {
 
 
         try {
-            const res = await fetch(`${API}/contact`, {
+            const res = await fetch(`https://portfolio-backend-1zwf.onrender.com/contact`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(form),
