@@ -39,7 +39,7 @@ export default function Contact() {
     };
 
     return (
-        <div id="Contact" className="text-white min-h-screen  ">
+        <div id="Contact" className="text-white min-h-screen ">
             <h3 className="font-bold z-0 w-fit mx-auto  text-3xl mt-20 pb-2"> Get In <span className="text-purple-600">Touch</span></h3>
 
             {/*Underline Below My Skills*/}
@@ -48,7 +48,7 @@ export default function Contact() {
             <div className="w-7/10 m-auto sm:w-4/10  text-center -mt-5">Have a project in mind or want to collaborate? Feel free to reach out. I'm always open to discussing new opportunities</div>
 
 
-            <div className="flex w-[90%]   justify-center items-center m-auto flex-col sm:flex-col md:flex-row gpa-10">
+            <div className="flex w-[90%] sm:w-full lg:w-[80%]  justify-center items-center m-auto flex-col sm:flex-col md:flex-row gpa-10">
 
                 <div className="div1 w-full sm:w-[60%] md:w-[40%]  mx-5 my-5   flex flex-col items-center gap-5  text-center">
                     <h4 className="font-bold text-2xl mt-5">Contact Info</h4>

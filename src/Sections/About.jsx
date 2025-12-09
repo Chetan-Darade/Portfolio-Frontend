@@ -22,7 +22,7 @@ export default function About() {
           <div className="text-sm text-center p-5 flex flex-col gap-5">
             <h6>I'am a Computer engineering graduate with a strong foundation in full-stack development. I enjoy building efficient and user-centric web applications using technologies like React.js, and NodeJS ExpressJS.
             </h6>
-            <h6> I thrive on solving real-world problems through clean code and practical architecture. When I'm not coding You'll see me Blooding new tools That makes development Smelter.</h6>
+            <h6> I thrive on solving real-world problems through clean code and practical architecture. When I'm not coding You'll see me learning new tools That makes development smarter.</h6>
 
             <div className="flex flex-col text-center items-center gap-5 mt-8 w-full">
 
